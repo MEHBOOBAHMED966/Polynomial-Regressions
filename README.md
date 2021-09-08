@@ -1,2 +1,2 @@
-# Polynomial-Regressions
+# House price prediction 
 Supervised Learning Project
